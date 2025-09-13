@@ -38,7 +38,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" (mailto:angsianosaputra@gmail.com) />
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
 </div>
@@ -75,8 +75,4 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=bilkis0987.bilkis0987&left_color=aqua&right_color=darkolivegreen"  />
 </div>
 
-<<<<<<< HEAD
 ###
-=======
-###
->>>>>>> 3129978f68877f311e937b5844be77bd72b12d04
